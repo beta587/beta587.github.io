@@ -15,6 +15,6 @@ title: Thank you!
 <a name="8"></a>
 <a name="9"></a>
 <a name="10"></a>
-<meta http-equiv="refresh" content="6;url=/beta587/beta587.github.io/" />
+<meta http-equiv="refresh" content="6;url=/searchexam/searchexam.github.io/" />
 
 Thank you for your feedback, we really appreciate it! We'll bring you back to the homepage now...

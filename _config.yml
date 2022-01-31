@@ -8,7 +8,7 @@ permalink: /:title/
 # baseurl: "/beta587/beta587.github.io"
 # url: "https://github.com"
 # baseurl: "beta587.github.io"
-url: "https://beta587.github.io/"
+url: "https://searchexam.github.io"
 ga_tracking: G-PSZJYHS4MN # Testing Beta 587 Gmail Account
 ga_tracking_anonymize_ip: false # Use GDPR compliant Google Analytics settings (true/nil by default)
 
@@ -21,7 +21,7 @@ aux_links:
   # "Sign Up to Download":
   #   - "https://bit.ly/3KuxvWy"
   "Feedback":
-    - "https://beta587.github.io/docs/nps/getNps"  
+    - "https://searchexam.github.io/docs/nps/getNps"  
 
   # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -74,7 +74,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Contact Us."
-gh_edit_repository: "https://bit.ly/3KuxvWy" # the github URL for your repo
+gh_edit_repository: "https://searchexam.github.io/contact" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
