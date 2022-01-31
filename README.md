@@ -1,2 +1,2 @@
 # Website for Search Exam
-https://searchexam.github.io
+https://beta587.github.io
