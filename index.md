@@ -14,7 +14,7 @@ Instead of checking the website again and again yourself, why not use 'Search Ex
 
 Search Exam is a program that automatically checks the website for available dates after set intervals, and plays an alarm whenever a new date is found.
 
-If you are interested in trying out, please fill the sign up form [**here**](/download), and we will send the software to your email.
+If you are interested in trying out, please fill the sign up form [**here**](/download/?utm_source=homepage&utm_medium=email), and we will send the software to your email.
 
 <img src="./images/logo.png" alt="Logo" style="zoom:50%;" />
 
