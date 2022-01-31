@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Download Search Exam
+permalink: /download/
 has_children: false
 
 
