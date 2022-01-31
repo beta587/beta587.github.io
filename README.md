@@ -1,2 +1,2 @@
-# beta587.github.io
-Website for Search Exam
+# Website for Search Exam
+https://beta587.github.io
