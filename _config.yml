@@ -5,11 +5,11 @@ remote_theme: pmarsceill/just-the-docs
 
 permalink: /:title/
 # logo: "Search Exam Logo"
-# baseurl: "/beta587/beta587.github.io"
-# url: "https://github.com"
+baseurl: "/beta587/beta587.github.io"
+url: "https://github.com"
 # baseurl: "beta587.github.io"
-url: "https://beta587.github.io/"
-# ga_tracking: G-PSZJYHS4MN # Testing Beta 587 Gmail Account
+# url: "https://beta587.github.io/"
+ga_tracking: G-PSZJYHS4MN # Testing Beta 587 Gmail Account
 ga_tracking_anonymize_ip: false # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
