@@ -3,7 +3,7 @@ layout: page
 title: Terms and Conditions
 
 ---
-- [Copyright statement](#copyright-statement)
+- [Copyright Statement](#copyright-statement)
 - [Terms and Conditions](#terms-and-conditions)
     - [Links to Other Websites](#links-to-other-websites)
     - [Termination](#termination)
@@ -12,7 +12,7 @@ title: Terms and Conditions
     - [Disputes Resolution](#disputes-resolution)
 - [Contact Us](#contact-us)
 
-# Copyright statement
+# Copyright Statement
 Search Exam program is copyright © 2022 by Beta587 Inc. All rights reserved.
 This program can not be copied, modified or distributed in whole or part by any means.
 
