@@ -13,6 +13,7 @@ has_children: false
     - [Taking are of limitations](#taking-are-of-limitations)
     - [Entering GPS Coordinates for location of exam center](#entering-gps-coordinates-for-location-of-exam-center)
   - [Finally - The dates screen](#finally---the-dates-screen)
+    - [Notes](#notes)
 
 # How to use Search Exam software
 
@@ -22,7 +23,6 @@ Please download and open the software as explained in the [download](../download
 Once you open the software, it takes a few minutes to load initially. It is actually working in the background even if it may appear stuck. Please be patient till you see the welcome screen like this.
 (If you can't read the image, right click on it and open it in new tab).
 
-![welScreen](images/welcome_screen.png)
 ![welScreen](images/welcome_screen_blue.png)
 ### Windows protected screen
 When you open the program for the very first time, you may see this blue screen “Windows protected your PC” which means that Windows didn’t recognize this software. **If** you see this screen, click on <span style="color:orange">More Info</span>  and then click on <span style="color:orange">Run Anyway</span>.
@@ -63,5 +63,17 @@ It is fairly easy to find GPS coordinates of any location using [Google maps](ht
 
 After entering all the inputs correctly, you will see the available dates like this:
 
-![dates_screen](images/dates_screen_blue.png)
 ![dates_screen](images/dates_screen_black.png)
+
+This screen will show an alert in red color (and play alarm) for all available dates when the software refreshes the website for the first time.
+In the subsequent refresh cycles, you will only get alerts for the new dates (new dates are the dates that did not appear in the previous refresh cycle). List of available dates will still be shown.
+
+Time interval between each refresh cycle depends on what you input at the start of the program.
+
+Refresh cycle number is shown below in the screen, and also the time when the last successful refresh happened.
+
+### Notes
+
+You need to keep the computer active (not sleep/shutdown etc.) in order for this program to keep running.
+
+All dates/times used in this program are in [UTC timezone](https://www.google.com/search?q=utc+time+zone).
