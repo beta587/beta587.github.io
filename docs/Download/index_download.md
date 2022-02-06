@@ -13,7 +13,7 @@ has_children: false
 
 # How to download Search Exam software
 
-Please [**click here**](https://drive.google.com/uc?export=download&id=1K-iUwDC-4jmhEDHmVWRHQUejnwcwZvHe){:target="_blank"} to download.
+Please [**click here**](https://drive.google.com/uc?export=download&id=1K-iUwDC-4jmhEDHmVWRHQUejnwcwZvHe){:target="_blank"} to download the latest version.
 
 If you see any warning for large size, click 'Download Anyway' button.
 
