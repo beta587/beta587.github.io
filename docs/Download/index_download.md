@@ -36,4 +36,4 @@ This program is only available for Windows as of now.
 
 Once you open the software, it will guide you through it. 
 
-If you need any help, please go through [How to Use](../tutorial) or feel free to [contact us](../contact/).
+If you need any help, please visit [How to Use](../tutorial) section, or feel free to [contact us](../contact/).

@@ -8,4 +8,4 @@ permalink: /contact/
 
 Please feel free to reach out to us at testingbeta587@gmail.com if you have any questions, comments or feedback. We try to respond to most of the emails within 24 hours.
 
-If you are facing any issues with installing or using the software, we would recommend to through the [How to Open](../download/index_download.md#how-to-open) and [How to Use]() guidelines.
+If you are facing any issues with installing or using the software, we would recommend to through the [How to Open](../download/#how-to-open) and [How to Use](../tutorial) guidelines.
