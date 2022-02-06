@@ -14,7 +14,7 @@ has_children: false
 # How to download Search Exam software
 
 
-Please [**click here**](https://drive.google.com/uc?export=download&id=1cRxo908Ej33z8kHkwPdTWKB2OgTjWl7o) to download. 
+Please [**click here**](https://drive.google.com/uc?export=download&id=10EwucBrVD4X9EcQa37fFKB3Ch6aRbj4M) to download. 
 <!-- https://drive.google.com/uc?export=download&id=File_ID_to_Download -->
 
 If you see any warning for large size, click 'Download Anyway' button.
