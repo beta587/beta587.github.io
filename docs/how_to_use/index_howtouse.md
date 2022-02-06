@@ -21,3 +21,4 @@ Please be patient till you see the welcome screen.
 ## Windows protected screen
 When you open the program for the very first time, you may see this blue screen “Windows protected your PC” which means that Windows didn’t recognize this software. If you see this screen, click on <span style="color:lightblue">More Info</span>  and then click on <span style="color:lightblue">Run Anyway</span>.
 
+![winProtectedScreen](images/windows_defender_smartscreen.png)
