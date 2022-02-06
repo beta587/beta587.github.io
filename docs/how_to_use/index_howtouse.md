@@ -50,7 +50,7 @@ You would need to input the GPS coordinates of the exam center for which you wan
 
 For example, if you want to see the dates for exam center in  Gurugram, India, you should input <span style="color:orange">28.421080, 77.043670</span>
 
-It is fairly easy to find GPS coordinates of any location using [Google maps](https://www.google.com/maps). 
+It is fairly easy to find GPS coordinates of any location using [Google maps](https://www.google.com/maps){:target="_blank"}. 
 
 - Search your desired exam center on google maps.
 - Right click on the location and you will see the coordinates for that location.
@@ -77,7 +77,7 @@ Refresh cycle number is shown below in the screen, and also the time when the la
 
 You need to keep the computer active (not sleep/shutdown etc.) in order for this program to keep running.
 
-All dates/times used in this program are in [UTC timezone](https://www.google.com/search?q=utc+time+zone).
+All dates/times used in this program are in [UTC timezone](https://www.google.com/search?q=utc+time+zone){:target="_blank"}.
 
 ### Subscription
 If you like the program and want to renew/upgrade the subscription, please [contact us](../contact/) via email.
