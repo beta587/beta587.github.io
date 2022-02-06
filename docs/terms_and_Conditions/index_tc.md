@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /copyright/
 title: Terms and Conditions
 
 ---

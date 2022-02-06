@@ -4,16 +4,29 @@ title: Download Search Exam
 permalink: /download/
 has_children: false
 
-
 ---
+- [How to download Search Exam software](#how-to-download-search-exam-software)
+  - [Requirements](#requirements)
+  - [How to Open](#how-to-open)
 
-# How to get Search Exam software
-
-
-Please signup using the google form below, and we will send the software to your email via google drive.
-
-If you are unable to see the form, please [click here](https://forms.gle/QWCmZw2Ytwxkas6V7).
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1vhTzuK3bdOHyAc4jVqbIhWbxtLdQPiimZd0VhcCv0IDkhQ/viewform?embedded=true" width="640" height="1661" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+# How to download Search Exam software
 
 
+Please [**click here**]() to download. 
+
+If you see any warning, click 'Download Anyway'.
+
+
+<!-- For Macbook, please [click here](). -->
+
+## Requirements
+This program is only available for Windows as of now.
+
+
+## How to Open
+
+- Clicking on the above link will download the ZIP file of the software.
+
+- Extract the ZIP file and open the Search Exam folder.
+
+- In the folder, you will see multiple files. Please open the "searchExam" file and there you go....
