@@ -20,5 +20,6 @@ Search Exam is a software that automatically checks the website after set interv
 ### Sounds cool?
 If you are interested in trying out, please visit the [download](/download/?utm_source=homepage&utm_medium=internalpage) page.
 
-<img src="./images/logo.png" alt="Logo" style="zoom:50%;" />
+<!-- <img src="./images/logo.png" alt="Logo" style="zoom:50%;" /> -->
 
+![sample](docs/how_to_use/images/dates_screen_black.png)
