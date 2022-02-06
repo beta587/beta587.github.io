@@ -8,6 +8,7 @@ has_children: false
 - [How to download Search Exam software](#how-to-download-search-exam-software)
   - [Requirements](#requirements)
   - [How to Open](#how-to-open)
+  - [What's next?](#whats-next)
 
 # How to download Search Exam software
 
@@ -30,3 +31,9 @@ This program is only available for Windows as of now.
 - Extract the ZIP file and open the Search Exam folder.
 
 - In the folder, you will see multiple files. Please open the "searchExam" file and there you go....
+
+## What's next?
+
+Once you open the software, it will guide you through it. 
+
+If you need any help, please go through [How to Use](../tutorial) or feel free to [contact us](../contact/).

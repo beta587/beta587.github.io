@@ -12,9 +12,13 @@ Are you also having difficulty to find suitable exam dates on Prometric website?
 
 Instead of checking the website again and again yourself, why not use 'Search Exam' to do this part, so that you can focus on your study.
 
-Search Exam is a program that automatically checks the website for available dates after set intervals, and plays an alarm whenever a new date is found.
 
-If you are interested in trying out, please fill the sign up form [**here**](/download/?utm_source=homepage&utm_medium=email), and we will send the software to your email.
+### What is Search Exam?
+Search Exam is a software that automatically checks the website after set intervals, and plays an alarm whenever a new exam date is found.
+
+
+### Sounds cool?
+If you are interested in trying out, please visit the [download](/download/?utm_source=homepage&utm_medium=internalpage) page.
 
 <img src="./images/logo.png" alt="Logo" style="zoom:50%;" />
 

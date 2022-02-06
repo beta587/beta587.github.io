@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Download Search Exam
+title: How to Use
 permalink: /tutorial/
 has_children: false
 
@@ -11,7 +11,7 @@ has_children: false
 
 # How to use Search Exam software
 
-Please download and open the software as explained [here](../download/index_download.md).
+Please download and open the software as explained [here](../download).
 
 Once you open the software, it takes a few minutes to load for the first time. It is actually working in the background even if it may appear stuck. 
 
