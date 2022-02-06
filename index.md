@@ -22,4 +22,4 @@ If you are interested in trying out, please visit the [download](/download/?utm_
 
 <!-- <img src="./images/logo.png" alt="Logo" style="zoom:50%;" /> -->
 
-![sample](docs/how_to_use/images/dates_screen_black.png)
+![sample](docs/how_to_use/images/dates_screen_blue.png)
