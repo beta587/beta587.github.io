@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /copyright/
+permalink: /tandc/
 nav_order: 4
 title: Terms and Conditions
 
