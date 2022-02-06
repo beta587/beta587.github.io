@@ -14,6 +14,7 @@ has_children: false
     - [Entering GPS Coordinates for location of exam center](#entering-gps-coordinates-for-location-of-exam-center)
   - [Finally - The dates screen](#finally---the-dates-screen)
     - [Notes](#notes)
+    - [Subscription:](#subscription)
 
 # How to use Search Exam software
 
@@ -77,3 +78,6 @@ Refresh cycle number is shown below in the screen, and also the time when the la
 You need to keep the computer active (not sleep/shutdown etc.) in order for this program to keep running.
 
 All dates/times used in this program are in [UTC timezone](https://www.google.com/search?q=utc+time+zone).
+
+### Subscription:
+If you like the program and want to renew/upgrade the subscription, please [contact us](../contact/) via email.

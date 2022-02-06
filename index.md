@@ -8,7 +8,7 @@ nav_order: 1
 
 # Welcome to Search Exam
 
-Are you also having difficulty to find suitable exam dates on Prometric website? People usually postpone their exam and their date becomes available, but it is very quickly taken away by someone else.
+Are you also having difficulty to find suitable exam dates on the website? People usually postpone their exam and their date becomes available, but it is very quickly taken away by someone else.
 
 Instead of checking the website again and again yourself, why not use 'Search Exam' to do this part, so that you can focus on your study.
 
