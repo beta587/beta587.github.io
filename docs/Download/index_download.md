@@ -17,7 +17,9 @@ has_children: false
 Please [**click here**](https://drive.google.com/uc?export=download&id=1cRxo908Ej33z8kHkwPdTWKB2OgTjWl7o) to download. 
 <!-- https://drive.google.com/uc?export=download&id=File_ID_to_Download -->
 
-If you see any warning, click 'Download Anyway'.
+If you see any warning for large size, click 'Download Anyway' button.
+
+<!-- Please note that this page is the only reliable and genuine source of downloading Search Exam. We do not share download links on social media or any other medium. Anyone who is interested to download Search Exam must do so by clicking the above link. -->
 
 
 <!-- For Macbook, please [click here](). -->
