@@ -2,6 +2,7 @@
 layout: page
 title: Download Search Exam
 permalink: /download/
+nav_order: 2
 has_children: false
 
 ---

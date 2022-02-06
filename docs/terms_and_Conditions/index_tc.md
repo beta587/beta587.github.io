@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /copyright/
+nav_order: 4
 title: Terms and Conditions
 
 ---

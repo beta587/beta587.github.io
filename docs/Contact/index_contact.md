@@ -2,6 +2,7 @@
 layout: page
 title: Contact Us
 permalink: /contact/
+nav_order: 5
 ---
 
 # How to contact us
