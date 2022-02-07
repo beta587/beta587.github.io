@@ -18,8 +18,8 @@ plugins:
 aux_links:
   # "Sign Up to Download":
   #   - "https://bit.ly/3KuxvWy"
-  "Feedback":
-    - "https://beta587.github.io/docs/nps/getNps"  
+  # "Feedback":
+  #   - "https://beta587.github.io/docs/nps/getNps"  
 
   # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
