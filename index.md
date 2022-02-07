@@ -14,7 +14,7 @@ Instead of checking the website again and again yourself, why not use 'Search Ex
 
 
 ### What is Search Exam?
-Search Exam is a software that automatically checks the website after set intervals, and plays an alarm whenever a new exam date is found.
+Search Exam is a software that automatically checks the website after set intervals. It plays an alarm and sends you an email whenever a new exam date is found.
 
 
 ### Sounds cool?
