@@ -15,7 +15,8 @@ has_children: false
 
 Please [**click here**](https://drive.google.com/uc?export=download&id=1K-iUwDC-4jmhEDHmVWRHQUejnwcwZvHe){:target="_blank"} to download the latest version.
 
-If you see any warning for large size, click 'Download Anyway' button.
+- If you see any warning for large size, click 'Download Anyway' button.
+- If you see 404 Error, please check back later after few minutes.
 
 <!-- Please note that this page is the only reliable and genuine source of downloading Search Exam. We do not share download links on social media or any other medium. Anyone who is interested to download Search Exam must do so by clicking the above link. -->
 
