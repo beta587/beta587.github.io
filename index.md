@@ -18,7 +18,7 @@ Search Exam is a software that automatically checks the website after set interv
 
 
 ### Sounds cool?
-If you are interested in trying out, please visit the [download](/download/?utm_source=homepage&utm_medium=internalpage) page.
+If you are interested in trying out, please visit the [download](/download/) page.
 
 ### Sample Screenshot
 <!-- <img src="./images/logo.png" alt="Logo" style="zoom:50%;" /> -->
