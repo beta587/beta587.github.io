@@ -40,7 +40,7 @@ However, you use the mouse on the website, but here you have to write the inputs
 While entering inputs, please take special care of the format . For example, **dates** should be entered in YYYY-MM-DD format like 2022-12-31. For some questions like **Refresh Interval**, you only have to write digits, no alphabets. (Refresh Interval means how regularly should the software refresh the website and check for new dates).
 
 ### Taking care of limitations
-While entering inputs, please take care of the limitations. For example, there is a question about how long this program should run continuously. Its maximum limit is 30 for premium subscription plan (which means you have to start the software again after a month - During those 30 days it will regularly check the dates for you without your interference).
+While entering inputs, please take care of the limitations. For example, there is a question about how long this program should run continuously. Its maximum limit is 30 for plus subscription plan (which means you have to start the software again after a month - During those 30 days it will regularly check the dates for you without your interference).
 
 ### Entering GPS Coordinates for location of exam center
 
