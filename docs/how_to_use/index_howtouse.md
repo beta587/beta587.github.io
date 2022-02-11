@@ -7,6 +7,7 @@ has_children: false
 
 ---
 - [How to use Search Exam software](#how-to-use-search-exam-software)
+    - [Takes time to load initially](#takes-time-to-load-initially)
     - [Windows protected screen](#windows-protected-screen)
   - [Input questions](#input-questions)
     - [Taking care of format](#taking-care-of-format)
@@ -20,7 +21,7 @@ has_children: false
 
 Please download and open the software as explained in the [download](../download) section.
 
-
+### Takes time to load initially
 Once you open the software, it takes a few minutes to load initially. It is actually working in the background even if it may appear stuck. Please be patient till you see the **welcome screen** like this.
 (If you can't read the image, right click on it and open it in new tab).
 
