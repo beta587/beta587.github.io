@@ -13,7 +13,10 @@ has_children: false
 
 # How to download Search Exam software
 
-Please [**click here**](https://www.dropbox.com/s/8j71j5hlk61hwch/searchExam.zip?dl=1){:target="_blank"} to download the latest version.
+For Windows, please [**click here**](https://www.dropbox.com/s/g19csm21oyd624c/searchExam.zip?dl=1){:target="_blank"} to download the latest version.
+
+
+<!-- For MacBook, please [**click here**](https://www.dropbox.com/s/8j71j5hlk61hwch/searchExam.zip?dl=1){:target="_blank"} to download the latest version. -->
 <!-- Please [**click here**](https://drive.google.com/uc?export=download&id=1GUu9abDSaOvm8OZMyDi0Nd0rEXoaB9TB){:target="_blank"} to download the latest version. -->
 
 <!-- - If you see any warning for large size, click 'Download Anyway' button. -->
@@ -21,12 +24,11 @@ Please [**click here**](https://www.dropbox.com/s/8j71j5hlk61hwch/searchExam.zip
 
 <!-- Please note that this page is the only reliable and genuine source of downloading Search Exam. We do not share download links on social media or any other medium. Anyone who is interested to download Search Exam must do so by clicking the above link. -->
 
-
 <!-- For Macbook, please [click here](). -->
 
 ## Requirements
-This program is only available for **Windows laptop** as of now.
-
+This program is available for **Windows** and **MacBook**.
+<!-- It does **not** work on mobile phone. -->
 
 ## How to Open
 

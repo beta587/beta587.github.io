@@ -21,7 +21,7 @@ has_children: false
 Please download and open the software as explained in the [download](../download) section.
 
 
-Once you open the software, it takes a few minutes to load initially. It is actually working in the background even if it may appear stuck. Please be patient till you see the welcome screen like this.
+Once you open the software, it takes a few minutes to load initially. It is actually working in the background even if it may appear stuck. Please be patient till you see the **welcome screen** like this.
 (If you can't read the image, right click on it and open it in new tab).
 
 ![welScreen](images/welcome_screen_blue.png)
