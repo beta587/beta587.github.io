@@ -15,7 +15,6 @@ has_children: false
 
 For Windows, please [**click here**](https://www.dropbox.com/s/g19csm21oyd624c/searchExam_Windows.zip?dl=1){:target="_blank"} to download the latest version.
 
-
 For MacBook, please [**click here**](https://www.dropbox.com/s/8j71j5hlk61hwch/searchExam.zip?dl=1){:target="_blank"} to download the latest version.
 <!-- Please [**click here**](https://drive.google.com/uc?export=download&id=1GUu9abDSaOvm8OZMyDi0Nd0rEXoaB9TB){:target="_blank"} to download the latest version. -->
 
@@ -27,8 +26,7 @@ For MacBook, please [**click here**](https://www.dropbox.com/s/8j71j5hlk61hwch/s
 <!-- For Macbook, please [click here](). -->
 
 ## Requirements
-This program is available for **Windows** and **MacBook**.
-
+This program is available for **Windows** and **MacBook**. 
 
 It does **not** run on mobile phone.
 
