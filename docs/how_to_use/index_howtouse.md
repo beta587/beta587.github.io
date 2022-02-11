@@ -7,7 +7,7 @@ has_children: false
 
 ---
 - [How to use Search Exam software](#how-to-use-search-exam-software)
-    - [Opening the program for the very first time](#opening-the-program-for-the-very-first-time)
+    - [Opening the software for the very first time](#opening-the-software-for-the-very-first-time)
     - [Takes time to load initially](#takes-time-to-load-initially)
   - [Input questions](#input-questions)
     - [Taking care of format](#taking-care-of-format)
@@ -19,13 +19,13 @@ has_children: false
 
 # How to use Search Exam software
 
-Please download and open the software as explained in the [download](../download) section.
-### Opening the program for the very first time
-On Windows, when you open the program for the very first time, you may see a warning blue screen. **If** you see this screen, click on <u>More Info</u> and then click on <u>Run Anyway</u>.
+Please download the software as explained in the [download](../download) section.
+### Opening the software for the very first time
+On Windows, when you open the program for the very first time, you may see a warning blue screen. If you see this screen, click on <span style="color:orange">More Info</span> and then click on <span style="color:orange">Run Anyway</span>.
 <!-- <span style="color:orange">More Info</span>  and then click on <span style="color:orange">Run Anyway</span>. -->
 
 <!-- ![winProtectedScreen](images/windows_defender_smartscreen.png) -->
-On Mac, when you open the program for the very first time, you may see a warning that this app can not be opened. **If** you see this warning, please cancel it. Then <u>Right click</u> the searchExam file, choose <u>Open</u> from the menu, and then click <u>Open</u> in the dialog that appears.
+On Mac, when you open the program for the very first time, you may see a warning that this app can not be opened. If you see this warning, please cancel it. Then <span style="color:orange">Right click</span> the software (the searchExam file), choose <span style="color:orange">Open</span> from the menu, and then click <span style="color:orange">Open</span> in the dialog that appears.
 ### Takes time to load initially
 Once you open the software, it takes a few minutes to load initially. It is actually working in the background even if it may appear stuck. Please be patient till you see the **welcome screen** like this.
 (If you can't read the image, right click on it and open it in new tab).
