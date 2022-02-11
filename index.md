@@ -23,4 +23,4 @@ If you are interested in trying out, please visit the [download](/download/) pag
 ### Sample Screenshot
 <!-- <img src="./images/logo.png" alt="Logo" style="zoom:50%;" /> -->
 
-![sample](docs/how_to_use/images/sample_email_screenshot.png)
+![sample](docs/how_to_use/images/sample_email_screenshot_withBorder.png)
