@@ -20,7 +20,7 @@ Search Exam is a software that automatically checks the website after set interv
 ### Sounds cool?
 If you are interested in trying out, please visit the [download](/download/) page.
 
-### Sample Screenshot
+### Sample Email Screenshot
 <!-- <img src="./images/logo.png" alt="Logo" style="zoom:50%;" /> -->
 
 ![sample](docs/how_to_use/images/sample_email_screenshot_withBorder.png)
