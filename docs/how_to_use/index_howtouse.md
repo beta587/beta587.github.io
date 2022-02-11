@@ -7,8 +7,8 @@ has_children: false
 
 ---
 - [How to use Search Exam software](#how-to-use-search-exam-software)
+    - [Opening the program for the very first time](#opening-the-program-for-the-very-first-time)
     - [Takes time to load initially](#takes-time-to-load-initially)
-    - [Windows protected screen](#windows-protected-screen)
   - [Input questions](#input-questions)
     - [Taking care of format](#taking-care-of-format)
     - [Taking care of limitations](#taking-care-of-limitations)
@@ -20,17 +20,17 @@ has_children: false
 # How to use Search Exam software
 
 Please download and open the software as explained in the [download](../download) section.
+### Opening the program for the very first time
+On Windows, when you open the program for the very first time, you may see a warning blue screen. **If** you see this screen, click on <u>More Info</u> and then click on <u>Run Anyway</u>.
+<!-- <span style="color:orange">More Info</span>  and then click on <span style="color:orange">Run Anyway</span>. -->
 
+<!-- ![winProtectedScreen](images/windows_defender_smartscreen.png) -->
+On Mac, when you open the program for the very first time, you may see a warning that this app can not be opened. **If** you see this warning, please cancel it. Then <u>Right click</u> the searchExam file, choose <u>Open</u> from the menu, and then click <u>Open</u> in the dialog that appears.
 ### Takes time to load initially
 Once you open the software, it takes a few minutes to load initially. It is actually working in the background even if it may appear stuck. Please be patient till you see the **welcome screen** like this.
 (If you can't read the image, right click on it and open it in new tab).
 
 ![welScreen](images/welcome_screen_blue.png)
-### Windows protected screen
-When you open the program for the very first time, you may see this blue screen “Windows protected your PC” which means that Windows didn’t recognize this software. **If** you see this screen, click on <span style="color:orange">More Info</span>  and then click on <span style="color:orange">Run Anyway</span>.
-
-![winProtectedScreen](images/windows_defender_smartscreen.png)
-
 ## Input questions
 
 Software will ask you to input some parameters like start date, end date, location of exam center etc. This is similar to how you select the start date, end date and location on the website.
