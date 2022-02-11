@@ -17,7 +17,7 @@ Please [**click here**](https://www.dropbox.com/s/8j71j5hlk61hwch/searchExam.zip
 <!-- Please [**click here**](https://drive.google.com/uc?export=download&id=1GUu9abDSaOvm8OZMyDi0Nd0rEXoaB9TB){:target="_blank"} to download the latest version. -->
 
 <!-- - If you see any warning for large size, click 'Download Anyway' button. -->
-- If you see Error 404, please check back later after few minutes.
+<!-- - If you see Error 404, please check back later after few minutes. -->
 
 <!-- Please note that this page is the only reliable and genuine source of downloading Search Exam. We do not share download links on social media or any other medium. Anyone who is interested to download Search Exam must do so by clicking the above link. -->
 
@@ -25,7 +25,7 @@ Please [**click here**](https://www.dropbox.com/s/8j71j5hlk61hwch/searchExam.zip
 <!-- For Macbook, please [click here](). -->
 
 ## Requirements
-This program is only available for Windows as of now.
+This program is only available for **Windows laptop** as of now.
 
 
 ## How to Open
