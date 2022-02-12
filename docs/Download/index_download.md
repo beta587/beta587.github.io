@@ -36,7 +36,7 @@ It does **not** run on mobile phone.
 
 - Extract the ZIP file and open the Search Exam folder.
 
-- In the folder, you will see multiple files. Please open the "searchExam" file and there you go....
+- In the folder, you will see multiple files. Please right-click on "searchExam" file and then click Open (avoid using double click to open the file).
 
 ## What's next?
 
