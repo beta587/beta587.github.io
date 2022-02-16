@@ -13,7 +13,7 @@ has_children: false
 
 # How to download Search Exam software
 
-For Windows, please [**click here**](https://www.dropbox.com/s/73qysszipm9yuzm/searchExam_Windows.zip?dl=1){:target="_blank"} to download the latest version.
+For Windows, please [**click here**](https://www.dropbox.com/s/2yk8hpjw93ww0ny/searchExam_Windows.zip?dl=1){:target="_blank"} to download the latest version.
 
 For MacBook, please [**click here**](https://www.dropbox.com/s/4qcc6y5e7h2v4e0/searchExam_Mac.zip?dl=1){:target="_blank"} to download the latest version.
 
