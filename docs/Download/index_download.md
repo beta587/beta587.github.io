@@ -15,7 +15,7 @@ has_children: false
 
 For Windows, please [**click here**](https://www.dropbox.com/s/6sh8ydqy9jqirjs/searchExam_Windows.zip?dl=1){:target="_blank"} to download the latest version.
 
-For MacBook, please [**click here**](https://www.dropbox.com/s/lj7o82oik0o8ox4/searchExam_MacBook.zip?dl=1){:target="_blank"} to download the latest version.
+For MacBook, please [**click here**](https://www.dropbox.com/s/d2p3er6k9zz7wuq/searchExam_MacBook.zip?dl=1){:target="_blank"} to download the latest version.
 
 - Mac users, please note that some older MacBooks show an error when software runs for the first time. **If** you see an error, please email us and we will provide you the fix.
 <!-- Please [**click here**](https://drive.google.com/uc?export=download&id=1GUu9abDSaOvm8OZMyDi0Nd0rEXoaB9TB){:target="_blank"} to download the latest version. -->
