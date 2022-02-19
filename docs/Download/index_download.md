@@ -15,7 +15,7 @@ has_children: false
 
 For Windows, please [**click here**](https://www.dropbox.com/s/5ccwtjy6y87na50/searchExam_Windows.zip?dl=1){:target="_blank"} to download the latest version.
 
-For MacBook, please [**click here**](https://www.dropbox.com/s/d2p3er6k9zz7wuq/searchExam_MacBook.zip?dl=1){:target="_blank"} to download the latest version.
+For MacBook, please [**click here**](https://www.dropbox.com/s/9vio4o4yj0e2vbn/searchExam_MacBook.zip?dl=1){:target="_blank"} to download the latest version.
 
 - Mac users, please note that some older MacBooks show an error when software runs for the first time. **If** you see an error, please email us and we will provide you the fix.
 <!-- Please [**click here**](https://drive.google.com/uc?export=download&id=1GUu9abDSaOvm8OZMyDi0Nd0rEXoaB9TB){:target="_blank"} to download the latest version. -->
@@ -38,7 +38,7 @@ It does **not** run on mobile phone.
 
 - Extract the ZIP file and open the Search Exam folder.
 
-- In the folder, you will see multiple files. Please right-click on "searchExam" file and then click Open (avoid using double click to open the file).
+- In the folder, you will see multiple files. Please right-click on "searchExam" file and then click Open. (Mac users can do ctrl-click instead of right-click). Avoid using double click to open the file.
 
 ## What's next?
 
