@@ -13,19 +13,19 @@ has_children: false
 
 # How to download Search Exam software
 
+You can download the latest version of the sodtware by clicking the button below.
+
+
+[Download for Windows](https://www.dropbox.com/s/tkxx4t7tyrfj7m3/searchExam_Windows.zip?dl=1){:target="_blank"}{: .btn .btn-green }
+
+[Download for Macbook](https://www.dropbox.com/s/eytjfvxkpm5od7h/searchExam_MacBook.zip?dl=1){:target="_blank"}{: .btn .btn-purple }
+
 For Windows, please [**click here**](https://www.dropbox.com/s/tkxx4t7tyrfj7m3/searchExam_Windows.zip?dl=1){:target="_blank"} to download the latest version.
 
 For MacBook, please [**click here**](https://www.dropbox.com/s/eytjfvxkpm5od7h/searchExam_MacBook.zip?dl=1){:target="_blank"} to download the latest version.
 
 - Mac users, please note that some older MacBooks show an error when software runs for the first time. **If** you see an error, please email us and we will provide you the fix.
 <!-- Please [**click here**](https://drive.google.com/uc?export=download&id=1GUu9abDSaOvm8OZMyDi0Nd0rEXoaB9TB){:target="_blank"} to download the latest version. -->
-
-<!-- - If you see any warning for large size, click 'Download Anyway' button. -->
-<!-- - If you see Error 404, please check back later after few minutes. -->
-
-<!-- Please note that this page is the only reliable and genuine source of downloading Search Exam. We do not share download links on social media or any other medium. Anyone who is interested to download Search Exam must do so by clicking the above link. -->
-
-<!-- For Macbook, please [click here](). -->
 
 ## Requirements
 This program is available for **Windows** and **MacBook**. 
