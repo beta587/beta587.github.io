@@ -16,9 +16,9 @@ Instead of checking the website again and again yourself, you can use 'Search Ex
 Search Exam is a software that automatically checks the website after set intervals. It plays an alarm and sends you an email whenever a new exam date is found.
 
 ### Why use Search Exam?
-- <span style="color:purple">Save your time</span> - let the software check the website regularly, instead of you.
-- <span style="color:orange">Reduce stress</span> of not finding a date
-- <span style="color:blue">Never miss a date again</span> - get alert as soon as new date becomes available
+- <span style="color:green">Save your time</span> - let the software check the website regularly, instead of you.
+- <span style="color:green">Reduce stress</span> of not finding a date
+- <span style="color:green">Never miss a date again</span> - get alert as soon as new date becomes available
 - <span style="color:green">Save your money</span> - no need to purchase extension just because you couldn't find a date
   
 
