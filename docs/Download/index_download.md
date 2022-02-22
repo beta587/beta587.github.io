@@ -17,7 +17,7 @@ You can download the latest version of the software by clicking the button below
 
 
 [Download for Windows](https://www.dropbox.com/s/tkxx4t7tyrfj7m3/searchExam_Windows.zip?dl=1){:target="_blank"}{: .btn .btn-green }
-[Download for Macbook](https://www.dropbox.com/s/eytjfvxkpm5od7h/searchExam_MacBook.zip?dl=1){:target="_blank"}{: .btn .btn-purple }
+[Download for Macbook](https://www.dropbox.com/s/eytjfvxkpm5od7h/searchExam_MacBook.zip?dl=1){:target="_blank"}{: .btn .btn-blue }
 
 <!-- For Windows, please [**click here**](https://www.dropbox.com/s/tkxx4t7tyrfj7m3/searchExam_Windows.zip?dl=1){:target="_blank"} to download the latest version.
 
