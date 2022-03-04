@@ -23,7 +23,7 @@ You can download the latest version of the software by clicking the button below
 
 For MacBook, please [**click here**](https://www.dropbox.com/s/eytjfvxkpm5od7h/searchExam_MacBook.zip?dl=1){:target="_blank"} to download the latest version. -->
 
-Mac users, please note that some older MacBooks may show an error when software runs for the first time. **If** you see an error, please email us and we will provide you the fix.
+<!-- Mac users, please note that some older MacBooks may show an error when software runs for the first time. **If** you see an error, please email us and we will provide you the fix. -->
 <!-- Please [**click here**](https://drive.google.com/uc?export=download&id=1GUu9abDSaOvm8OZMyDi0Nd0rEXoaB9TB){:target="_blank"} to download the latest version. -->
 
 ## Requirements
